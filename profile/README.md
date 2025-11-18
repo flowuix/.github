@@ -26,7 +26,3 @@ FlowUIX is a lightweight UI component library that ships **100% CSS-only**. Perf
 ## Get Started
 
 Check out our main repository to learn more and start building.
-
----
-
-Built with love for the HTML-first community.
